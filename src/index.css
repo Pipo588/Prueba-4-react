@@ -1,0 +1,36 @@
+body {
+  overflow-x: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: goldenrod;
+  
+  
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root {
+  
+  max-width: 50em;
+  background-position: center;
+  padding: 1.9em;
+  margin: 0 auto;
+  background-color: grey;
+  font-weight:bold;
+  border: radius 1px;
+  display: table-row;
+  justify-content: center;
+  border: black;
+  
+ 
+  
+}
+aside{
+  background-position: right;
+  
+}
